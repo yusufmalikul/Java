@@ -10,8 +10,6 @@
  * 
  */
 
-package yusuf;
-
 import java.util.Scanner;
 
 public class Calculator {
